@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'dropr'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2c77bd7fe0a9474d823212fd128eaeda }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ccb09c4bd4c8490b93a9f149907ff04a }}
         package: .
